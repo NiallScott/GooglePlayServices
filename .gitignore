@@ -27,3 +27,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# Let the Android tools generate the build.xml and proguard-project.txt files
+build.xml
+proguard-project.txt
